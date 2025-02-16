@@ -14,7 +14,7 @@ public class SplashPost {
     public WebDriver driver1;
     DesiredCapabilities cap;
 
-    //launching the postapp
+    //launching the postapp right way
 
     public void LaunchPostApp() throws MalformedURLException, InterruptedException {
         cap = new DesiredCapabilities();
