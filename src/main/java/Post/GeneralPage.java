@@ -17,7 +17,7 @@ import java.io.File;
 import java.net.MalformedURLException;
 import java.time.Duration;
 
-
+//comment added
     public class GeneralPage<MobileElement> {
         public WebDriver driver;
         public static AndroidDriver driver1;
