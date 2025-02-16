@@ -16,8 +16,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import java.io.File;
 import java.net.MalformedURLException;
 import java.time.Duration;
-
-//comment added
+//done and tested
     public class GeneralPage<MobileElement> {
         public WebDriver driver;
         public static AndroidDriver driver1;
